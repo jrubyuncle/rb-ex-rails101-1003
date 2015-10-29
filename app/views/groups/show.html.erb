@@ -6,7 +6,7 @@
   <h2><%= @group.title %></h2>
   <p><%= @group.description %></p>
 
-  <table>
+  <table class="table">
     <thead>
       <tr>
         <th>Article</th>
@@ -18,10 +18,12 @@
         <tr>
           <td><%= post.content %></td>
           <td>
-            <%= link_to 'Edit', edit_group_post_path(@group, post) %>
+            <%= link_to 'Edit', edit_group_post_path(@group, post),
+                        class: "btn btn-default btn-xs " %>
             <%= link_to 'Delete', group_post_path(@group, post), method: :delete,
-                        data: {confirm: "Are you sure?"} %>
-          </td>>
+                        data: {confirm: "Are you sure?"},
+                        class: "btn btn-default btn-xs" %>
+          </td>
         </tr>
       <% end %>
     </tbody>
