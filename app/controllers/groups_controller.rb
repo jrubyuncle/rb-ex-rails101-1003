@@ -35,6 +35,9 @@ class GroupsController < ApplicationController
   end
 
   def destroy
+    @group = Group.find params[:id]
+    @group.destroy
+    redirect_to groups_path, alert: "group deleted"
   end
 
   private
