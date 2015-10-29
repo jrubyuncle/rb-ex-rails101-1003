@@ -1,5 +1,9 @@
 q. if 'rollback transaction', how to debug?
 
+q. _navbar.html.erb
+q. _footer.html.erb
+q. notice_message() in application_helper.rb
+
 
 
 group - owner
@@ -20,8 +24,8 @@ post  - author
 
 ch1                                  | 1016,  1   hr   | 1029, 45  mins
 ch2                                  | 1016, 20   mins | 1029, 15  mins
-ch3                                  | 1016,  1   hr   | 1029, 12:00 -
-ch4                                  | 1016,  1   hr   |
+ch3                                  | 1016,  1   hr   | 1029, 30  mins
+ch4                                  | 1016,  1   hr   | 1029, 12:35 -
 
 ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  |
 ch6 devise           1006,  3   hrs  | 1018,  3   hrs  |
