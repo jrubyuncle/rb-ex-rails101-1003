@@ -30,8 +30,8 @@ ch2 create new project               | 1016, 20   mins | 1029, 15   mins
 ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins
 ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr
 
-http://courses.growthschool.com/courses/rails-101/lectures/229574
-ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  |
+http://courses.growthschool.com/courses/rails-101/lectures/229590
+ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hr
 ch6 devise           1006,  3   hrs  | 1018,  3   hrs  |
 
 ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  |
