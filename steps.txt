@@ -4,6 +4,9 @@ q. _navbar.html.erb
 q. _footer.html.erb
 q. notice_message() in application_helper.rb
 
+redirect_to groups_path, notice: "modify group ok"
+redirect_to groups_path, alert: "討論版已刪除"
+
 
 
 group - owner
@@ -22,12 +25,12 @@ post  - author
 
 // -----------------------------------------------------------------
 
-ch1                                  | 1016,  1   hr   | 1029, 45  mins
-ch2                                  | 1016, 20   mins | 1029, 15  mins
-ch3                                  | 1016,  1   hr   | 1029, 30  mins
-ch4                                  | 1016,  1   hr   | 1029, 12 mins +
-http://courses.growthschool.com/courses/rails-101/lectures/229441
+ch1 scaffold                         | 1016,  1   hr   | 1029, 45   mins
+ch2 create new project               | 1016, 20   mins | 1029, 15   mins
+ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins
+ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr
 
+http://courses.growthschool.com/courses/rails-101/lectures/229574
 ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  |
 ch6 devise           1006,  3   hrs  | 1018,  3   hrs  |
 
