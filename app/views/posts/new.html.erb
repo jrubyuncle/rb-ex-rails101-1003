@@ -1,0 +1,11 @@
+<div class="col-md-4 col-md-offset-4">
+  <h1>新增 Post</h1>
+
+  <hr>
+  <%= simple_form_for [@group, @post] do |f| %>
+    <div class=form-group>
+      <%= f.input :content, input_html: { class: "form-control"} %>
+    </div>
+    <%= f.submit "Submit", class: "btn btn-primary", data: { disable_with: "Submitting..." } %>
+  <% end %>
+</div>
