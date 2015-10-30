@@ -11,7 +11,8 @@
   <table class="table">
     <thead>
       <tr>
-        <th>Article</th>
+        <th>Article Content</th>
+        <th>Author</th>
         <th colspan="2"></th>
       </tr>
     </thead>
@@ -19,6 +20,7 @@
       <% @posts.each do |post| %>
         <tr>
           <td><%= post.content %></td>
+          <td>[<%= post.author ? post.author.name : "" %>]</td>
           <td>
             <%= link_to 'Edit', edit_group_post_path(@group, post),
                         class: "btn btn-default btn-xs " %>
