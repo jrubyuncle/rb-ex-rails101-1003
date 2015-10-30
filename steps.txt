@@ -30,12 +30,12 @@ ch2 create new project               | 1016, 20   mins | 1029, 15   mins
 ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins
 ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr
 
-http://courses.growthschool.com/courses/rails-101/lectures/229590
-ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hr
-ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030, 12:21 -
+ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hrs
+ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030,  3   hrs
 
-ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  |
-ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  |
+http://courses.growthschool.com/courses/rails-101/lectures/229633
+ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs
+ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,
 
 ch9 refactor         1008,  1   hr   | 1028,  1   hr   |
 ch10 db:seed         1008, 40   mins | 1028,  1   hr   |
@@ -61,7 +61,7 @@ ch5 [create posts in group]
   ch5.2 []                                       35 mins
   ch5.3 [post crud]                       1 hr
 
-ch6 [devise]                              3 hr
+ch6 [devise]                              3 hr,
   ch6.1 []
   ch6.2 []
   ch6.3 []
@@ -70,21 +70,21 @@ ch6 [devise]                              3 hr
 ch7 [join/quit group]
 
   ch7.1 [
-  ch7.2 [create join table: group_users]  1 hr
-  ch7.3 [only group members can post]     1 hr
-  ch7.4 [join/quit group]                 1 hr
-  ch7.5 [group creator -> members]                10 mins
-  ch7.6 [in groups#show, edit only for creator]   10 mins
+  ch7.2 [create join table: group_users]          1019, 1 hr   | 1030,   15 min
+  ch7.3 [only group members can post]             1019, 1 hr   | 1030,    1 hr
+  ch7.4 [join/quit group]                         1019, 1 hr   | 1030,   40 min
+  ch7.5 [group creator -> members]                1019, 10 mins| 1030,    3 min
+  ch7.6 [in groups#show, edit only for creator]   1019, 10 mins| 1030,    7 min
 
 ch8 [backend] 160 mins = 2 hrs 40 mins
 
   ch8.1 []
-  ch8.2 []  25 mins
-  ch8.3 []  50 mins
-  ch8.4 []  40 mins
-  ch8.5 []  10 mins
-  ch8.6 []  30 mins
-  ch8.7 []   5 mins
+  ch8.2 []  1020, 25 mins | 1030,
+  ch8.3 []  1020, 50 mins | 1030,
+  ch8.4 []  1020, 40 mins | 1030,
+  ch8.5 []  1020, 10 mins | 1030,
+  ch8.6 []  1020, 30 mins | 1030,
+  ch8.7 []  1020,  5 mins | 1030,
 
 ch9 [refactor]
 ch10 [db:seed]
