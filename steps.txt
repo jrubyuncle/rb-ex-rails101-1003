@@ -79,7 +79,7 @@ ch8 [backend] 160 mins = 2 hrs 40 mins
 
   ch8.1 []
   ch8.2 []  1020, 25 mins | 1030, 27 mins
-  ch8.3 []  1020, 50 mins | 1030,
+  ch8.3 []  1020, 50 mins | 1030, 13 mins (copy)
   ch8.4 []  1020, 40 mins | 1030,
   ch8.5 []  1020, 10 mins | 1030,
   ch8.6 []  1020, 30 mins | 1030,
