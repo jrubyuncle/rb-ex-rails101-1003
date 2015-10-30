@@ -32,7 +32,7 @@ ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr
 
 http://courses.growthschool.com/courses/rails-101/lectures/229590
 ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hr
-ch6 devise           1006,  3   hrs  | 1018,  3   hrs  |
+ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030, 12:21 -
 
 ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  |
 ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  |
