@@ -11,4 +11,7 @@ class Group < ActiveRecord::Base
     user && user == owner
   end
 
+  def has_member?(user)
+    members.include?(user)
+  end
 end
