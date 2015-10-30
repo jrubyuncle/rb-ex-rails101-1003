@@ -13,6 +13,8 @@
              <b class="caret"></b>
            </a>
            <ul class="dropdown-menu">
+             <li> <%= link_to("MyGroups", account_groups_path) %></li>
+             <li> <%= link_to("MyPosts", account_posts_path) %></li>
              <li> <%= link_to("Account Setting", edit_user_registration_path) %></li>
              <li> <%= link_to("登出", destroy_user_session_path, method: :delete) %> </li>
            </ul>
