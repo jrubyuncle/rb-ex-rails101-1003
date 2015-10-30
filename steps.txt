@@ -34,7 +34,7 @@ ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hrs
 ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030,  3   hrs
 
 ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs
-ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,
+ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,  1.6 hrs
 
 ch9 refactor         1008,  1   hr   | 1028,  1   hr   |
 ch10 db:seed         1008, 40   mins | 1028,  1   hr   |
@@ -82,8 +82,8 @@ ch8 [backend] 160 mins = 2 hrs 40 mins
   ch8.3 []  1020, 50 mins | 1030, 13 mins (copy)
   ch8.4 []  1020, 40 mins | 1030, 30 mins
   ch8.5 []  1020, 10 mins | 1030,  5 mins
-  ch8.6 []  1020, 30 mins | 1030,
-  ch8.7 []  1020,  5 mins | 1030,
+  ch8.6 []  1020, 30 mins | 1030, 20 mins
+  ch8.7 []  1020,  5 mins | 1030, 10 mins
 
 ch9 [refactor]
 ch10 [db:seed]
