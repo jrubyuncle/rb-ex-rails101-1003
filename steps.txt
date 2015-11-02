@@ -36,8 +36,8 @@ ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030,  3   hrs
 ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs
 ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,  1.6 hrs
 
-ch9 refactor         1008,  1   hr   | 1028,  1   hr   |
-ch10 db:seed         1008, 40   mins | 1028,  1   hr   |
+ch9 refactor         1008,  1   hr   | 1028,  1   hr   | 1102, 30   mins
+ch10 db:seed         1008, 40   mins | 1028,  1   hr   | 1102, 30   mins
 
 ch11 deployment
 
